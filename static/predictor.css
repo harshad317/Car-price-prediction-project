@@ -1,0 +1,24 @@
+body {
+    justify-content: flex-start;
+    background: url(https://miro.medium.com/max/1296/1*kQBj7l-Y1WPZfX9nKIYL1Q.jpeg) 
+    no-repeat;
+    font-family: 'Poppins', sans-serif;
+    background-size: cover;
+	background-position: center;
+}
+.form {
+    background-color: white;
+    width: 80vw;
+    margin: 60px auto;
+    padding: 30px 50px;
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18),0 4px 15px 0 rgba(0,0,0,0.15);
+    border-radius: 12px;
+}
+.form h1 {
+    color: cyan;
+}
+
+.button {
+    padding: 10px 30px;
+    font-size: 18px;
+}
